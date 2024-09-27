@@ -1,0 +1,14 @@
+<workspace name="initial" version="5.0.2" crc="33796708">
+  <projects>
+    <project type="project" name="initial" filepath=".\initial.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
